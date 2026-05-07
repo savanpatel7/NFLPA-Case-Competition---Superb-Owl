@@ -4,7 +4,7 @@ A biomechanics-inspired predictive framework for NFL soft-tissue injury preventi
 
 **Authors:** Lucca Ferraz, Savan Patel — Team SuperbOwl, Rice University
 
-**Award: Runners-Up, NFLPA Data Analytics Case Competition**
+**Award: Runners-Up, 2025-2026 NFLPA Data Analytics Case Competition**
 
 ---
 
